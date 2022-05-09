@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    aaa();
+    //aaa();
 
     $("#detailPageBtn").click(function() {
 		location.href = "machineManagementDetail.html";
